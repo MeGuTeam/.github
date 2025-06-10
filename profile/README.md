@@ -26,6 +26,6 @@ Memberikan sarana belajar yang efisien, modern, dan mudah diakses bagi siapa pun
 
 ## 🔗 Kunjungi Aplikasi
 
-👉 [Klik di sini untuk mulai belajar](https://github.com/Icikiwir-Squad)
+👉 [Klik di sini untuk mulai belajar](https://ikibannihongo.netlify.app/)
 
 ---
