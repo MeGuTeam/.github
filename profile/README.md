@@ -1,6 +1,6 @@
-# 🌸 Ikiban Nihongo
+# 🌸 MeGu
 
-**Ikiban Nihongo** adalah aplikasi pembelajaran bahasa Jepang yang dirancang untuk membantu siapa saja yang ingin memulai atau memperdalam kemampuan berbahasa Jepang secara mandiri dan terstruktur.
+**MeGu** adalah aplikasi pembelajaran bahasa Jepang yang dirancang untuk membantu siapa saja yang ingin memulai atau memperdalam kemampuan berbahasa Jepang secara mandiri dan terstruktur.
 
 ## 🎯 Tujuan Aplikasi
 
@@ -25,5 +25,5 @@ Memberikan sarana belajar yang efisien, modern, dan mudah diakses bagi siapa pun
 - **Supabase**
 
 ## 🔗 Kunjungi Aplikasi
-
+[MeGu](https://rifqicodes.icu/)
 ---
